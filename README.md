@@ -1,9 +1,21 @@
-## Welcome to GitHub Pages
+## yg.github.io
 
-You can use the [editor on GitHub](https://github.com/yang408485700/yg.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+>>>**完善中...**
+### 个人简介
+### 站点内容
+### 工具学习
+    * git工具
+### Linux学习
+    * 《Linux程序设计》
+### C语言学习
+    * 《C专家编程》
+    * 《C和指针》
+    * 《C陷阱与缺陷》
+### 存储基础
+    * 《大话存储》
+### 刷题总结
+    * LeetCode
+    * OJ
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
